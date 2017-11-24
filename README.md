@@ -1,2 +1,2 @@
 # ProyectoYeny
-Este es el priyecto para la clase de Ingesoft1
+Este es el proyecto para la clase de IngeSoft1
